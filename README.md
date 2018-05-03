@@ -1,3 +1,6 @@
+Realtime DataFeed API Documentation
+===================================
+
 Here will present an [example request](#example-request) and the [request model explained](#request-model).
 
 <a name="example-request"></a> Example request
