@@ -6,7 +6,7 @@ Here will present an [example request](#example-request) and the [request model 
 <a name="example-request"></a> Example request
 ---------------
 ```
-POST https://public.v2.api.commercialpeople.com/import
+POST https://api.commercialpeople.com/import
 Content-Type: application/json
 ```
 json example:
